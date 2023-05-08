@@ -26,4 +26,4 @@ To run my application you simply need to clone the project and run the html file
 
 ## HOME UI
 
-[HomePage](https://github.com/SunilHooda/Mini-Calculator/blob/main/Images/ProjectPic.png)
+[](https://github.com/SunilHooda/Mini-Calculator/blob/main/Images/ProjectPic.png)
