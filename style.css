@@ -54,8 +54,8 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0 10px 0 10px;
-  overflow-x: scroll;
+  padding: 0 10px 0 15px;
+  overflow: scroll hidden;
 }
 
 ::-webkit-scrollbar {
